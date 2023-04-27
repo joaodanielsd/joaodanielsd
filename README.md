@@ -1,4 +1,6 @@
-## Olá, eu sou João Daniel.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá+Eu+sou+João+Daniel;Devolper,+Web+Designer,+Front-End)](https://git.io/typing-svg)
+
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-daniel-santos-dias-68a9087a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.daniel.jdsd/)<br>
@@ -21,3 +23,10 @@
 </div>
 <br>
 <p>Gestão de Tecnológia, devolper, front-end</p>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=joaodanielsd&theme=github_dark) 
+![](https://komarev.com/ghpvc/?username=joaodanielsd)
+
+
+ 
+ 
